@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "vetur.validation.style": false,
+  "eslint.workingDirectories": [
+    ".",
+    "./frontend"
+  ]
+}
